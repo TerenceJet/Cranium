@@ -1,2 +1,2 @@
-Cranium-Sorcery
+Cranium
 ===============
